@@ -3,7 +3,7 @@ parameters
 QCC = 18.7; 
 
 %Fractional organ_i blood flow [L/hr/kg^.75]
-FQliver
+FQliver = ...; 
 FQlung
 FQkidney 
 FQfat 
